@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://raw.githubusercontent.com/shafi-cor/public/blob/6acd44b20f76d121868f381cd0bb0edceed7e687/Avenir-Book.ttf');
+    src: url('https://raw.githubusercontent.com/shafi-cor/public/blob/6acd44b20f76d121868f381cd0bb0edceed7e687/Avenir-Book.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/shafi-cor/public/blob/6acd44b20f76d121868f381cd0bb0edceed7e687/Avenir-Book.woff') format('woff'),
+         url('https://raw.githubusercontent.com/shafi-cor/public/blob/6acd44b20f76d121868f381cd0bb0edceed7e687/Avenir-Book.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+} 
